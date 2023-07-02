@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586093980 source:c:\users\user\documents\codeblocks\cour\serie4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"matrice.h"
+
+1586089791 c:\users\user\documents\codeblocks\cour\serie4\matrice.h
+
+1586091293 source:c:\users\user\documents\codeblocks\cour\serie4\matrice.c
+	"matrice.h"
+
+1586093832 source:c:\users\user\documents\codeblocks\cour\serie4\ressources.rc
+
